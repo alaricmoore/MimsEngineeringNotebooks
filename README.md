@@ -1,2 +1,4 @@
-# MimsEngineeringNotebooks
-PDF copies of the Engineer's mini notebook series by Forrest M. Mims III
+# RadioEngineeringBooks
+
+Just a bunch of different books about radios, electricity, antennas, and other related things. 
+
