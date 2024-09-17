@@ -1,4 +1,3 @@
-# RadioEngineeringBooks
+# MiniEngineeringNotebooks
 
-Just a bunch of different books about radios, electricity, antennas, and other related things. 
-
+A collection of a number of the Engineer's Mini Notebooks by Forrest M. Mims III
